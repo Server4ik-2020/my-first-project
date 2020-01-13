@@ -43,3 +43,8 @@ main {
 .block-information h2,p {
     font-family: 'Roboto', sans-serif;
 }
+.red {
+    width: 200px;
+    height: 200px;
+    background: red;
+}
